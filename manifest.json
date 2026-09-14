@@ -1,0 +1,17 @@
+{
+  "background_color": "#020617",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Space Dodger V20",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "SpaceDodger",
+  "start_url": "/",
+  "theme_color": "#00e5ff",
+  "description": "КИБЕРБАНК 2026 v20 — космический доджер с 50 боссами, неоновый шутер",
+  "lang": "en",
+  "categories": [
+    "entertainment",
+    "games"
+  ]
+}
