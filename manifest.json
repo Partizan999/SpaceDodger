@@ -1,14 +1,14 @@
 {
-  "name": "Space Dodger V20",
-  "short_name": "SpaceDodger",
-  "description": "Киберпанк шутер 2026 - 50 боссов, 8 артефактов, космическая музыка",
-  "id": "/SpaceDodger/",
-  "start_url": "./index.html",
-  "scope": "./",
+  "id": "/",
+  "name": "Your App Name",
+  "short_name": "App",
+  "start_url": "./?v=21",
   "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "browser"],
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
   "orientation": "portrait",
-  "background_color": "#020617",
-  "theme_color": "#00e5ff",
+  "scope": "./",
   "icons": [
     {
       "src": "./icon-192.png",
@@ -21,14 +21,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "wide"
     }
   ]
 }
